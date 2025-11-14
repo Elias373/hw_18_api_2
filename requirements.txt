@@ -1,0 +1,5 @@
+selene==2.0.0rc6
+selenium==4.13.0
+requests==2.31.0
+allure-pytest==2.13.2
+pytest==7.4.3
